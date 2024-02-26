@@ -1,0 +1,41 @@
+Afterburner is ENABLED
+Initial beam particles (before afterburner):
+   pdg: 11   p: 0.0, 0.0, -10.0   e:10.0
+   pdg: 2212   p: 0.0, 0.0, 100.0   e:100.0
+   crossing angle: 0 [mrad]
+=========================
+AFTERBURNER CONFIGURATION
+=========================
+Crossing angle hor: 0.025
+Crossing angle ver: 0.0001
+Vertex distribution width  x: 0, y: 0, z: 0, t: 0
+Vertex distribution function: Gauss
+Vertex simulation is: on
+Hadron beam:
+   rms emittance   : hor = 3e-05, ver = 2.7e-06
+   beta star       : hor = 940, ver = 85
+   beta crab       : hor = 500000
+   rms bunch length: 70
+Lepton beam:
+   rms emittance   : hor = 2e-05, ver = 1.3e-06
+   beta star       : hor = 1430, ver = 180
+   beta crab       : hor = 150000
+   rms bunch length: 7
+=========================
+Events parsed: 1000
+Events parsed: 2000
+Events parsed: 3000
+Events parsed: 4000
+Events parsed: 5000
+Events parsed: 10000
+Events parsed: 15000
+Events parsed: 20000
+Events parsed: 30000
+Events parsed: 40000
+Events parsed: 50000
+Events parsed: 60000
+Events parsed: 70000
+Events parsed: 80000
+Events parsed: 90000
+Events parsed: 100000
+End of file reached. Events processed: 100000 Exit.
