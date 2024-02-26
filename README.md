@@ -1,7 +1,7 @@
 Deeply virtual meson production (DVMP) with the EpIC generator
 
-The EpIC generator is used to generate Monte Carlo events for exclusive processes.
-https://github.com/pawelsznajder/epic (Author: Paweł Sznajder)
+The EpIC generator is used to generate Monte Carlo events for exclusive processes (author: Paweł Sznajder).
+https://github.com/pawelsznajder/epic
 
 1. Installation: https://pawelsznajder.github.io/epic/instalation.html
 
