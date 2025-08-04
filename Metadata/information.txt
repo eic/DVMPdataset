@@ -1,0 +1,4 @@
+MC Generator: EpIC (https://pawelsznajder.github.io/epic/)
+Author: Pawel Sznajder (Pawel.Sznajder@ncbj.gov.pl) 
+Version: v1.1.6
+Reference: Eur. Phys. J. C 82, 819 (2022). https://doi.org/10.1140/epjc/s10052-022-10651-z. (arXiv:2205.01762)
