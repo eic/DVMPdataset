@@ -1,0 +1,22 @@
+This is to generate simulation sample of Deeply Virtual Meson Production (DVMP) with pi0 mesons using the EpIC Monte Carlo (MC) generator.
+
+EpIC version 1.1.6 installed on RHIC Computing Facility (RCF)
+
+Set EpIC kinematic variables in `Input_XML_Cards/10_130_plus_PI0.xml`.
+
+Generate EpIC sample
+```
+source /gpfs/mnt/gpfs02/eic/jkim/run-EpIC-Jihee/set_env_EpIC
+run_epic -n 1 -i 10_130_plus_PI0.xml
+```
+
+```
+usage: /direct/eic+u/sznajder/epic_scripts/run_epic [OPTIONS]
+
+   -n, --njobs	number of jobs to be submitted (required)
+   -i, --input	input XML scenario (required)
+   -s, --seed	random seed to be used by the first job,
+		value is consecutively incremented for following
+		jobs, default value is 1
+   -h, --help 	print this help
+```
