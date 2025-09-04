@@ -1,3 +1,5 @@
+## Used preset ip6_hiacc_100x10 with afterburner version 0.1.2 
+
 Afterburner is ENABLED
 Initial beam particles (before afterburner):
    pdg: 11   p: 0.0, 0.0, -10.0   e:10.0
