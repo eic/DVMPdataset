@@ -35,3 +35,6 @@ https://github.com/pawelsznajder/epic
 4. Afterburn the output (available in eic-shell):
 
    abconv -p ip6_hiacc_100x10 10_100_DVMP.txt
+
+
+N.B.: This repo contains changes from https://github.com/eic/DVpi0P_ePIC_gen which will be archived. 
