@@ -50,7 +50,7 @@
 
          	<module type="DVMPConvolCoeffFunctionModule" name="DVMPCFFTables">
          		<param name="qcd_order_type" value="LO" />
-			<param name="cff_set_file" value="/gpfs/mnt/gpfs02/eic/sznajder/software/epic/data/DVMPCFFTables/pi0_table_GK.root" />
+			<param name="cff_set_file" value="data/DVMPCFFTables/pi0_table_GK.root" />
          	</module>
 
          </module>
