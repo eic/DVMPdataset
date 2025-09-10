@@ -1,0 +1,41 @@
+jug_dev> jkim11@eic0102:/gpfs02/eic/jkim/DVpi0P/sim_data$ ./hepmc3ascii2root/build/hepmc3ascii2root epic1.1.6-1.0_DVpi0P_5x41_q2_1to1000_run001.hepmc3 epic1.1.6-1.0_DVpi0P_5x41_q2_1to1000_run001.hepmc3.tree.root
+First event: 
+________________________________________________________________________
+GenEvent: #0
+ Momentum units: GEV Position units: MM
+ Entries in this event: 3 vertices, 8 particles, 1 weights.
+ Position offset: -0.066, -0.0081, 10, -13
+                                    GenParticle Legend
+         ID    PDG ID   ( px,       py,       pz,     E )   Stat ProdVtx
+________________________________________________________________________
+Vtx:     -1 stat:   0 (X,cT): -0.066 -0.0081 10 -13
+ I:       1       11 +5.92e-04,-1.12e-03,-5.00e+00,+5.00e+00   4     0
+ O:       2       11 -8.24e-01,+6.99e-01,-4.90e+00,+5.01e+00   1    -1
+          3       22 +8.25e-01,-7.00e-01,-1.03e-01,-1.47e-02  13    -1
+Vtx:     -2 stat:   0 (X,cT): -0.066 -0.0081 10 -13
+ I:       3       22 +8.25e-01,-7.00e-01,-1.03e-01,-1.47e-02  13    -1
+          4     2212 -1.04e+00,+1.42e-02,+4.10e+01,+4.10e+01   4     0
+ O:       5      111 +6.41e-01,-4.92e-01,+3.67e+00,+3.76e+00   2    -2
+          6     2212 -8.54e-01,-1.94e-01,+3.72e+01,+3.72e+01   1    -2
+Vtx:     -3 stat:   0 (X,cT): -0.066 -0.0081 10 -13
+ I:       5      111 +6.41e-01,-4.92e-01,+3.67e+00,+3.76e+00   2    -2
+ O:       7       22 +4.18e-01,-2.81e-01,+2.54e+00,+2.59e+00   1    -3
+          8       22 +2.23e-01,-2.11e-01,+1.14e+00,+1.18e+00   1    -3
+________________________________________________________________________
+Event: 100
+Event: 200
+Event: 300
+Event: 400
+...
+Event: 999000
+Event: 999100
+Event: 999200
+Event: 999300
+Event: 999400
+Event: 999500
+Event: 999600
+Event: 999700
+Event: 999800
+Event: 999900
+Event: 1000000
+Events parsed and written: 1000000
