@@ -1,0 +1,14 @@
+MC Generator: EpIC (https://pawelsznajder.github.io/epic/)
+Author: Pawel Sznajder (Pawel.Sznajder@ncbj.gov.pl) 
+Version: v1.1.6
+Reference: Eur. Phys. J. C 82, 819 (2022). https://doi.org/10.1140/epjc/s10052-022-10651-z. (arXiv:2205.01762)
+
+HepMC::Version 3.02.03
+T EPIC\|1.1.6\|2017-07-18 | Select specific GPD types
+A generated_events_number 1000000
+A generation_date Thu Sep 11 16:46:32 2025\|
+A hadron_polarisation 0|0|0
+A integrated_cross_section_uncertainty [nb] 6.25010091606406e-07
+A integrated_cross_section_value [nb] 0.00184687084744955
+A lepton_polarisation 1
+A service_name DVMPGeneratorService

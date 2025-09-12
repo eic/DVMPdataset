@@ -1,0 +1,46 @@
+## Used preset ip6_hidiv_275x18 with afterburner version 0.1.3
+
+jug_dev+> jkim11@eic0102:/gpfs02/eic/jkim/DVpi0P/sim_data$ abconv -p ip6_hidiv_275x18 -o epic1.1.6-1.0_DVpi0P_18x275_q2_1to1000_run001 epic1.1.6-1.0_DVpi0P_18x275_q2_1to1000_run001_bf.hepmc3
+Afterburner is ENABLED
+Initial beam particles (before afterburner):
+   pdg: 11   p: 0.0, 0.0, -18.0   e:18.0
+   pdg: 2212   p: 0.0, 0.0, 275.0   e:275.0
+   crossing angle: 0 [mrad]
+=========================
+AFTERBURNER CONFIGURATION
+=========================
+Crossing angle hor: 0.025
+Crossing angle ver: 0.0001
+Vertex distribution width  x: 0, y: 0, z: 0, t: 0
+Vertex distribution function: Gauss
+Vertex simulation is: on
+Hadron beam:
+   rms emittance   : hor = 1.8e-05, ver = 1.6e-06
+   beta star       : hor = 800, ver = 71
+   beta crab       : hor = 1.3e+06
+   rms bunch length: 60
+Lepton beam:
+   rms emittance   : hor = 2.4e-05, ver = 2e-06
+   beta star       : hor = 590, ver = 57
+   beta crab       : hor = 150000
+   rms bunch length: 9
+=========================
+Events parsed: 1000
+Events parsed: 2000
+Events parsed: 3000
+Events parsed: 4000
+Events parsed: 5000
+Events parsed: 10000
+Events parsed: 15000
+Events parsed: 20000
+Events parsed: 30000
+Events parsed: 40000
+Events parsed: 50000
+...
+Events parsed: 950000
+Events parsed: 960000
+Events parsed: 970000
+Events parsed: 980000
+Events parsed: 990000
+Events parsed: 1000000
+End of file reached. Events processed: 1000000 Exit.
